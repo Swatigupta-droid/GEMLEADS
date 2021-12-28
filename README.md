@@ -23,7 +23,7 @@ Using GemLeads they can keep track of all the leads by three ways:
   <img src="https://ui.vision/Content/Images/chrome-extension-install-dev-mode.png" width="600" >
 </p>
 
-* And upload the GEMSLEAD folder you just cloned.
+* And upload the GEMLEADS folder you just cloned.
 
 # APPEARANCE:
 
