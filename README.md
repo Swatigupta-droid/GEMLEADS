@@ -3,9 +3,10 @@ GEMLEADS is built to help all those people who have difficulty keeping track of 
 in many open tabs all at once.
 
 Using GemLeads they can keep track of all the leads by three ways: 
-1.Input the URL of the lead and save the input by clicking on Save Input.
-2.Save the URL of the active tab by clicking on Save This Tab. 
-3.Can download the saved URL into a text file by clicking on the download icon in the bottom right corner.
+
+* Input the URL of the lead and save the input by clicking on Save Input.
+* Save the URL of the active tab by clicking on Save This Tab. 
+* Can download the saved URL into a text file by clicking on the download icon in the bottom right corner.
 
 
 # HOW TO USE:
@@ -39,5 +40,7 @@ Using GemLeads they can keep track of all the leads by three ways:
 </p>
 
 
-**
-HAPPY CODING!!!!!**
+<br><br>
+<p align="center">⭐⭐HAPPY CODING⭐⭐
+</p>
+
