@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: 'Roboto Slab',serif;
+    min-width: 450px;
+    background-color:azure;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #1f4577;
+    margin-bottom: 4px;
+}
+
+#input-btn,#tab-btn,#delete-btn {
+    background: #1f4577;
+    color: white;
+    padding: 10px 20px;
+    border: 1.5px solid #1f4577;
+    font-weight: bold;
+}
+
+#delete-btn {
+    background: white;
+
+    color: #1f4577;
+}
+
+ul {
+    margin-top: 20px;
+    list-style:none;
+    font-size: 13px;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    color: #1f4577;
+}
+
+header
+{
+    margin-bottom: 15px;
+    font-weight: bold;
+    text-align: center;
+    font-size: large;
+}
+
+button:hover
+{
+    cursor: pointer;
+}
+#down-btn
+{
+    border: none;
+    color: black;
+    margin-left: 95%;
+    cursor:pointer;
+}
+footer
+{
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding: 0%;
+}

@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Leads tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "icon.png"
+    },
+    "icons":"icon.png",
+    "description":"GEMLEADS is built to help all those people who have difficulty keeping track of all the important leads/searches they have made for a topic which results in many open tabs all at once.\n.Using GemLeads they can keep track of all the leads by two ways:\n 1.Inputing the URL of the lead and saving the input\n 2.Saving the URL of the active tab . \n ",
+    "permissions": [
+        "tabs"
+    ]
+}
